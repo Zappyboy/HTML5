@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac05b1f4-7502-4abc-9fb2-9bc22c53637a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2/img/klim.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2/img/klim2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2/tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2/tags2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H3/tabel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H3/tabel2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578297113814</updated>
-      <workItem from="1578297115991" duration="1768000" />
+      <workItem from="1578297115991" duration="3576000" />
     </task>
     <servers />
   </component>
