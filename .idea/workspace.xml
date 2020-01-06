@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac05b1f4-7502-4abc-9fb2-9bc22c53637a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/H3/tabel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H3/tabel2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H3/tabel3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/H2/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../educus" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -69,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578297113814</updated>
-      <workItem from="1578297115991" duration="3576000" />
+      <workItem from="1578297115991" duration="4725000" />
     </task>
     <servers />
   </component>
@@ -77,9 +76,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="410" y="158" width="700" height="530" key="recent.locations.popup" timestamp="1578298358902">
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1578320461192">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="410" y="158" width="700" height="530" key="recent.locations.popup/0.0.1536.864@0.0.1536.864" timestamp="1578298358902" />
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578320461192" />
+    <state x="410" y="158" width="700" height="530" key="recent.locations.popup" timestamp="1578301276950">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="410" y="158" width="700" height="530" key="recent.locations.popup/0.0.1536.864@0.0.1536.864" timestamp="1578301276950" />
   </component>
 </project>
